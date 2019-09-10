@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="age" type="id">age</item>
+    <item name="classmate" type="id">classmate</item>
+    <item name="cancel" type="id">cancel</item>
+</resources>
